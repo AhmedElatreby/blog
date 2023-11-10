@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "1st website",
+      "body": "some text goes here...",
+      "author": "Ahmed",
+      "id": 1
+    },
+    {
+      "title": "2nd website",
+      "body": "some text goes here...",
+      "author": "Shahd",
+      "id": 2
+    },
+    {
+      "title": "3rd website",
+      "body": "some text goes here...",
+      "author": "Ahmed",
+      "id": 3
+    },
+    {
+      "title": "4th website",
+      "body": "some text goes here...",
+      "author": "Shahd",
+      "id": 4
+    }
+  ]
+}
