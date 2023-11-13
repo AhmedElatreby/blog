@@ -1,13 +1,14 @@
-import { useState } from "react";
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   return (
     <nav className="navbar">
       <h1>Ahmed's Blog</h1>
       <div className="links">
-        <a href="/">Home</a>
-        <a className="create" href="/create">
+        <Link to="/">Home</Link>
+        <Link className="create" to="/create">
           New Blog
-        </a>
+        </Link>
       </div>
     </nav>
   );
